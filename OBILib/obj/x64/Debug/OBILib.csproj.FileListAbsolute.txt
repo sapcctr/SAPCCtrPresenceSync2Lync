@@ -1,0 +1,1 @@
+C:\temp\obi\OBILib\obj\x64\Debug\OBILib.csprojResolveAssemblyReference.cache
